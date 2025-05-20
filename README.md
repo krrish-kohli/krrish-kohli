@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krrish-kohli-16b3aa310/)](https://www.linkedin.com/in/krrish-kohli-16b3aa310)
 ![GitHub followers](https://img.shields.io/github/followers/krrish-kohli?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=krrish-kohli.krrish-kohli)
+[![Gmail](https://img.shields.io/badge/-krrishkohli15@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krrishkohli15@gmail.com)
 
 
 **📈 My GitHub Stats**
