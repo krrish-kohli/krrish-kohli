@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krrish-kohli-16b3aa310/)](https://www.linkedin.com/in/krrish-kohli-16b3aa310)
 ![GitHub followers](https://img.shields.io/github/followers/krrish-kohli?label=Follow&style=social)
-[![Gmail](https://img.shields.io/badge/-krrishkohli15@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krrishkohli15@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krrishkohli15@gmail.com)
 
 
 **📈 My GitHub Stats**
@@ -82,4 +82,4 @@ const krrish = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
