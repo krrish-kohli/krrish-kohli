@@ -51,7 +51,7 @@ const krrish = {
     education: {
         university: "California State University, Long Beach",
         program: "B.S. in Computer Science (Honors)",
-        gpa: 3.93,
+        gpa: 3.95,
         coursework: [
             "Digital Logic", "Data Structures", "Discrete Structures",
             "System Programming", "Algorithms", "Computer Architecture",
