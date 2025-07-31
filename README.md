@@ -10,9 +10,9 @@
 
 **📈 My GitHub Stats**
 
-![Code Time](https://img.shields.io/badge/Code%20Time-40%20hrs%2025%20mins-blue)
+[![Code Time](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
 ![Profile Views](https://komarev.com/ghpvc/?username=krrish-kohli&color=blue)
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-171%2C249%20lines%20of%20code-blue)
+![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish-kohli&layout=compact)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=gotham" alt="krrishkohli" />
