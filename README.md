@@ -13,14 +13,14 @@
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=krrish-kohli&color=blue)
 
-<!-- GitHub Stats -->
-![Krrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=github_dark)
+<!-- Coding Since -->
+![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-blue)
 
 <!-- General Activity -->
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/krrish-kohli/krrish-kohli?style=flat-square)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=gotham" alt="krrishkohli" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=dark" alt="krrishkohli" />
 
 ## 🛠 Tech Stack:
 
