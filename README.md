@@ -3,8 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krrish-kohli-16b3aa310/)](https://www.linkedin.com/in/krrish-kohli-16b3aa310)
 ![GitHub followers](https://img.shields.io/github/followers/krrish-kohli?label=Follow&style=social)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krrishkohli15@gmail.com)
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=krrishkohli15@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
