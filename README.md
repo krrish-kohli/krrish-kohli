@@ -10,9 +10,9 @@
 
 **📈 My GitHub Stats**
 
-[![Code Time](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
+[![WakaTime Stats](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com/@YOUR_ID)
 ![Profile Views](https://komarev.com/ghpvc/?username=krrish-kohli&color=blue)
-![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish-kohli&layout=compact)
+
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=gotham" alt="krrishkohli" />
