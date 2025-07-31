@@ -10,9 +10,14 @@
 
 **📈 My GitHub Stats**
 
-[![WakaTime Stats](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com/@YOUR_ID)
+<!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=krrish-kohli&color=blue)
 
+<!-- GitHub Stats -->
+![Krrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=github_dark)
+
+<!-- General Activity -->
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/krrish-kohli/krrish-kohli?style=flat-square)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=gotham" alt="krrishkohli" />
