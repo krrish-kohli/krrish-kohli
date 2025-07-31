@@ -17,10 +17,10 @@
 ![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-blue)
 
 <!-- General Activity -->
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/krrish-kohli/krrish-kohli?style=flat-square)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/krrish-kohli/krrish-kohli?style=flat-square)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=dark" alt="krrishkohli" />
+<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=github_dark" alt="krrishkohli" />
 
 ## 🛠 Tech Stack:
 
