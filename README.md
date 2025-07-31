@@ -5,6 +5,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/krrish-kohli?label=Follow&style=social)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krrishkohli15@gmail.com)
 
+<a href="mailto:krrishkohli15@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 **📈 My GitHub Stats**
 
