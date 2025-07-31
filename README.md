@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krrish-kohli)
+
+
 
 **📈 My GitHub Stats**
 
