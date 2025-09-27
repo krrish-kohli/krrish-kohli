@@ -16,6 +16,8 @@
 <!-- Coding Since -->
 ![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-blue)
 
+![Krrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=github_dark)
+
 
 ## 🛠 Tech Stack
 
