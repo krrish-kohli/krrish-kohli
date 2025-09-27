@@ -16,8 +16,6 @@
 <!-- Coding Since -->
 ![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-blue)
 
-<!-- General Activity -->
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/krrish-kohli/krrish-kohli?style=flat-square)
 
 ## 🛠 Tech Stack
 
