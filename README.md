@@ -19,9 +19,6 @@
 <!-- General Activity -->
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/krrish-kohli/krrish-kohli?style=flat-square)
 
-<!-- GitHub Stats -->
-![Krrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krrish-kohli&show_icons=true&theme=github_dark)
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
