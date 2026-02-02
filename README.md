@@ -73,7 +73,7 @@ const krrish = {
     education: {
         university: "California State University, Long Beach",
         program: "B.S. in Computer Science (Honors)",
-        gpa: 3.95,
+        gpa: 3.9,
         coursework: [
             "Digital Logic", "Data Structures", "Discrete Structures",
             "System Programming", "Algorithms", "Computer Architecture",
@@ -84,7 +84,7 @@ const krrish = {
     askMeAbout: ["AI/ML", "data analysis", "web dev", "research", "automation"],
     technologies: {
         machineLearning: ["TensorFlow", "scikit-learn", "Pandas", "NumPy", "SciPy"],
-        dataViz: ["Matplotlib"],
+        dataViz: ["Matplotlib", "Seaborn"],
         web: {
             frontEnd: ["HTML", "CSS", "JavaScript"],
             backEnd: ["Flask"]
